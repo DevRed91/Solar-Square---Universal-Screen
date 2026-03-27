@@ -560,12 +560,12 @@ export const WIND_DATA: WindDataType[] = [
   {
     heading: 'Breeze',
     description:
-      'Everyday monsoon breeze — like a typical rainy day in Nagpur.',
+      'Everyday monsoon breeze — like a typical rainy day in Indore.',
   },
   {
     heading: 'Strong Winds',
     description:
-      'Shakes windows and breaks weak branches — common in Nagpur’s peak monsoon.',
+      'Shakes windows and breaks weak branches — common in Indore’s peak monsoon.',
   },
   {
     heading: 'Storm',
