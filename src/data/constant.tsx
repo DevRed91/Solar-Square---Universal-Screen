@@ -560,12 +560,12 @@ export const WIND_DATA: WindDataType[] = [
   {
     heading: 'Breeze',
     description:
-      'Everyday monsoon breeze — like a typical rainy day in Your City.',
+      'Everyday monsoon breeze — like a typical rainy day in your city.',
   },
   {
     heading: 'Strong Winds',
     description:
-      'Shakes windows and breaks weak branches — common in Your City\'s peak monsoon.',
+      'Shakes windows and breaks weak branches — common in your city\'s peak monsoon.',
   },
   {
     heading: 'Storm',
